@@ -1,11 +1,12 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
-### July 1, Friday
+### July 1 - 4
 
 **Today's Progress**: 
-
+Lumping these days together due to holiday weekend. Watched all of the 9+ hour super review and began class 19 (arrays) of 100 Devs playlist. Also completed a re-code of my guess-the-word JS project from the Skillcrush curriculum.
 
 **Thoughts** 
+I'm still testing out this process of working through all the 100Devs recorded courses while concurrently working on more advanced JS work with Skillcrush and Scrimba curriculums. The 100Devs material is still mainly review at this point in the bootcamp, but there's so much useful insight from Leon spread out throughout the videos that I don't want to skip any. Plus, the review of fundamentals is always valuable, IMO.
 
 
 ### June 30, Thursday
