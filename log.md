@@ -1,5 +1,13 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### July 5, Tuesday
+
+**Today's Progress**:
+Began reviewing class 19, general JS review and intro the Arrays. 
+
+**Thoughts** 
+Additionally worked on some Code Wars challenges and refactoring my Guess-the-word game from the Skillcrush curriculum.
+
 ### July 1 - 4
 
 **Today's Progress**: 
