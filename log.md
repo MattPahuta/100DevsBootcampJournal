@@ -1,5 +1,33 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### July 11, Monday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+### July 10, Sunday
+
+**Today's Progress**: Off day today - recharge day to spend with family and record a pod.
+
+**Thoughts** 
+
+### July 9, Saturday
+
+**Today's Progress**: Began class 21 review and completed several Code Wars challenges.
+
+**Thoughts** 
+
+
+### July 8, Friday
+
+**Today's Progress**: Completed class 20 with a focus on review of JS fundamentals and array methods. Completed several Code Wars challenges.
+
+**Thoughts** 
+
+
 ### July 7, Thursday
 
 **Today's Progress**:
