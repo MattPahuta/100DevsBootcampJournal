@@ -1,11 +1,14 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### July 12, Tuesday
+
+**Today's Progress**: Completed review of class 21, serveral Code Wars challenges, and a couple hours toward a Frontend Mentor website project.
+
+
 ### July 11, Monday
 
-**Today's Progress**: 
-
-**Thoughts** 
+**Today's Progress**: Continued progress on review of class 21 vid and associated exercises. Also, dedicated a big part of the day to the Skillcrush JS curriculum (review), more Code Wars challenges, and a Frontend Mentor website project.
 
 
 ### July 10, Sunday
@@ -18,14 +21,10 @@
 
 **Today's Progress**: Began class 21 review and completed several Code Wars challenges.
 
-**Thoughts** 
-
 
 ### July 8, Friday
 
 **Today's Progress**: Completed class 20 with a focus on review of JS fundamentals and array methods. Completed several Code Wars challenges.
-
-**Thoughts** 
 
 
 ### July 7, Thursday
@@ -33,15 +32,11 @@
 **Today's Progress**:
 Continued class 20 today, nearly completing, but needed to carve out some exercise today so a long bike ride took up a big chunk of the day. Also worked on several Code Wars challenges, trying to get back into a consistent groove of solving challenges on a daily basis.
 
-**Thoughts** 
-
 
 ### July 6, Wednesday
 
 **Today's Progress**:
 Finished reviewing class 19, completed in-class exercises and review, and began reviewing class 20 (general JS review and more arrays so far).
-
-**Thoughts** 
 
 
 ### July 5, Tuesday
