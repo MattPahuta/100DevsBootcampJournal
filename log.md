@@ -1,9 +1,13 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### July 13, Wednesday 
+
+**Today's Progress**: Began review of class 22, more Code Wars challenges, and additional work on a Skillcrush API interaction project.
+
 
 ### July 12, Tuesday
 
-**Today's Progress**: Completed review of class 21, serveral Code Wars challenges, and a couple hours toward a Frontend Mentor website project.
+**Today's Progress**: Completed review of class 21, several Code Wars challenges, and a couple hours toward a Frontend Mentor website project.
 
 
 ### July 11, Monday
