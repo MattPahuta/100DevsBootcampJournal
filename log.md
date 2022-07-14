@@ -1,5 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### July 14, Thursday
+
+**Today's Progress**: Continued with class 22 as well as completing several more Code Wars challenges, focusing on array-specific challenges. Also got in some spaced repetition with Anki and kept working on the Skillcrush API interaction project.
+
+
 ### July 13, Wednesday 
 
 **Today's Progress**: Began review of class 22, more Code Wars challenges, and additional work on a Skillcrush API interaction project.
