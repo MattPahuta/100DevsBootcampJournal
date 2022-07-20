@@ -1,5 +1,9 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### July 19, Tuesday
+
+**Today's Progress**: Completed review of class 23 and began review of class 24. More Code Wars challenges today as well as additional work on a Frontend Mentor project.
+
 
 ### July 18, Monday
 
