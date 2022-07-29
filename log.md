@@ -1,5 +1,8 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### July 29, Friday
+
+**Today's Progress**: Began review of class 26, completed Anki review, and worked on Code Wars challenges. Also began work on a small DOM and local storage project and started a small component challenge project from Frontend Mentor.
 
 ### July 27, Wednesday
 
