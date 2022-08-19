@@ -1,5 +1,15 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### August 19, Friday
+
+**Today's Progress**: 
+
+
+### August 18, Thursday 
+
+**Today's Progress**: Finally back on track today with some Free Code Camp review, Anki spaced repetition, and closing out a small JS project from the Traversy Udemy course.
+
+
 ### July 29, Friday
 
 **Today's Progress**: Began review of class 26, completed Anki review, and worked on Code Wars challenges. Also began work on a small DOM and local storage project and started a small component challenge project from Frontend Mentor.
