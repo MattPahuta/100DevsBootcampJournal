@@ -2,7 +2,7 @@
 
 ### August 19, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Started the day with some more Free Code Camp, which I think is a generally excellent way to kick things off, brush up on foundational JS and programming concepts. Then moved on to work on a new Frontend Mentor project, mainly focused on project setup and the initial CSS custom props.
 
 
 ### August 18, Thursday 
