@@ -1,6 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### August 22, Monday
+
+**Today's Progress**: FCC JavaScript work to start my morning, followed by more Frontend Mentor project work and then catching up on 100Devs class 26. Also mixed in some Code Wars challenges and a bit of Anki review.
+
+
 ### August 20, Saturday
 
 **Today's Progress**: Started again with FCC JavaScript fundamental reviews and challenges before moving on to continue work on a Frontend Mentor project.
