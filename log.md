@@ -1,5 +1,8 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### August 23, Tuesday
+
+**Today's Progress**: More FCC to start the day, followed up by some 100Devs, finishing up my review of class 26, and then spent some time working on the FEM project. Finally, completed another Code Wars challenge.
 
 ### August 22, Monday
 
