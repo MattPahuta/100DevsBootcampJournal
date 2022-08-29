@@ -1,5 +1,8 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### August 29, Monday
+
+**Today's Progress**: FCC JS began the week followed up with some Code Wars challenges. Then, moved on to the FEM project and finished up with another hour of class 27 review, working with APIs and objects.
 
 ### August 27-28, Saturday and Sunday
 
