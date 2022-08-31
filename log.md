@@ -1,5 +1,13 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### August 31, Wednesday
+
+**Today's Progress**: Per usual, started off with FCC and Code Wars challenges before moving on to work further on the Frontend Mentor project. Then, finished review of class 27, working mostly with APIs.
+
+### August 30, Tuesday
+
+**Today's Progress**: Free Code Camp and Code Wars early, more work on the FEM project, and more review of class 27.
+
 ### August 29, Monday
 
 **Today's Progress**: FCC JS began the week followed up with some Code Wars challenges. Then, moved on to the FEM project and finished up with another hour of class 27 review, working with APIs and objects.
