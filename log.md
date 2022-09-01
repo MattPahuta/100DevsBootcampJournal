@@ -1,5 +1,10 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### September 1, Thursday
+
+**Today's Progress**: A little bit of Free Code Camp in the morning before taking the rest of the day to setup a new primary PC for development work moving forward.
+
 ### August 31, Wednesday
 
 **Today's Progress**: Per usual, started off with FCC and Code Wars challenges before moving on to work further on the Frontend Mentor project. Then, finished review of class 27, working mostly with APIs.
