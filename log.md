@@ -1,6 +1,16 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 3, Saturday
+
+**Today's Progress**: Spent a few hours working on a seperate, smaller Frontend Mentor project, practicing flex box and general CSS layout.
+
+
+### September 2, Friday
+
+**Today's Progress**: Focused on Free Code Camp ES6 JS review today as well as an hour of Code Wars challenges.
+
+
 ### September 1, Thursday
 
 **Today's Progress**: A little bit of Free Code Camp in the morning before taking the rest of the day to setup a new primary PC for development work moving forward.
