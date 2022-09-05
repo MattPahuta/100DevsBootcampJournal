@@ -1,6 +1,16 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 5, Monday
+
+**Today's Progress**: 
+
+
+### September 4, Sunday
+
+**Today's Progress**: Clocked a couple hours finishing up and refining the 3-column card component from FEM I'd been working on.
+
+
 ### September 3, Saturday
 
 **Today's Progress**: Spent a few hours working on a seperate, smaller Frontend Mentor project, practicing flex box and general CSS layout.
