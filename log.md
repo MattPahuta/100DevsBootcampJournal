@@ -3,7 +3,7 @@
 
 ### September 5, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Started off by submitting my latest FEM project and updating the associated repo with readme and gh pages. Then moved over to FCC and Code Wars.
 
 
 ### September 4, Sunday
