@@ -1,6 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 6, Tuesday
+
+**Today's Progress**: Began the day working through Free Code Camp content and then went at some Code Wars. Also spent some time catching up on Scrimba content before starting my review of 100Devs class 28.
+
+
 ### September 5, Monday
 
 **Today's Progress**: Started off by submitting my latest FEM project and updating the associated repo with readme and gh pages. Then moved over to FCC and Code Wars.
