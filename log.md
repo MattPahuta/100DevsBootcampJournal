@@ -1,5 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### September 8, Thursday
+
+**Today's Progress**: Began the day again with some FCC review followed by spaced-repetition with Anki before diving into some Code Wars challenges. Finished up with some work along the Scrimba curriculum, working on an earlier solo project that had shown up.
+
+
 ### September 7, Wednesday
 
 **Today's Progress**: More FCC curriculum review today, some additional work on the Scrimba path, and further review of 100Devs class 28, working further with APIs.
