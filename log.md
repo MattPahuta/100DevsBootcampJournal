@@ -1,5 +1,9 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### September 7, Wednesday
+
+**Today's Progress**: More FCC curriculum review today, some additional work on the Scrimba path, and further review of 100Devs class 28, working further with APIs.
+
 
 ### September 6, Tuesday
 
