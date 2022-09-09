@@ -1,6 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 9, Friday
+
+**Today's Progress**: Finished up review of class 28, working through more API content and practice, then put in an hour or so of Free Code Camp and general JS and FEWD study.
+
+
 ### September 8, Thursday
 
 **Today's Progress**: Began the day again with some FCC review followed by spaced-repetition with Anki before diving into some Code Wars challenges. Finished up with some work along the Scrimba curriculum, working on an earlier solo project that had shown up.
