@@ -1,6 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 10, Saturday
+
+**Today's Progress**: Started the morning with a little FCC, then went on to spend several hours working on two separate Frontend Mentor projects before finishing off with some more work on a Scrimba solo project, working on dynamically populating the DOM with content from an array of objects.
+
+
 ### September 9, Friday
 
 **Today's Progress**: Finished up review of class 28, working through more API content and practice, then put in an hour or so of Free Code Camp and general JS and FEWD study.
