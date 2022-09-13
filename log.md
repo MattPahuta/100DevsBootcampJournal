@@ -1,6 +1,15 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 12, Monday
+
+**Today's Progress**: Code Wars and FCC camp today, plus revisied the Scrimba solo project to add an additional feature and to revamp how event listeners were dynamically handled. 
+
+
+### September 11, Sunday
+
+**Today's Progress**: Primarily worked through the Scrimba solo project, completing the key features and getting some good practice dynamically populating and updating the DOM via JS and working with an array of objects.
+
 ### September 10, Saturday
 
 **Today's Progress**: Started the morning with a little FCC, then went on to spend several hours working on two separate Frontend Mentor projects before finishing off with some more work on a Scrimba solo project, working on dynamically populating the DOM with content from an array of objects.
