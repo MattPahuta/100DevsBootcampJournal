@@ -1,5 +1,9 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### September 13, Tuesday
+
+**Today's Progress**: More FCC and Scrimba today to start the day. Then, finished up another Frontend Mentor project before getting started on 100Devs class 29.
+
 
 ### September 12, Monday
 
