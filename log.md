@@ -1,5 +1,20 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### September 16, Friday
+
+**Today's Progress**: Free Code Camp JS pratice challenges today and some additional work on a Frontend Mentor project.
+
+
+### September 15, Thursday
+
+**Today's Progress**: Continued review of class 29 and a mix of work on Frontend Mentor projeccts, Free Code Camp, and a small calculator project from the Traversy Udemy course.
+
+
+### September 14, Wednesday
+
+**Today's Progress**: Additional work on Frontend Mentor projects, Free Code Camp, and some Code Wars challenges were the order of the day.
+
+
 ### September 13, Tuesday
 
 **Today's Progress**: More FCC and Scrimba today to start the day. Then, finished up another Frontend Mentor project before getting started on 100Devs class 29.
