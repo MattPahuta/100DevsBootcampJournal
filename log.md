@@ -1,5 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### September 21, Wednesday
+
+**Today's Progress**: Free Code Camp JS challenges to begin the day, followed by some Code Wars, and then moved over to complete review of class 29. Finished off with some more work on a small FEM project.
+
+
 ### September 16, Friday
 
 **Today's Progress**: Free Code Camp JS pratice challenges today and some additional work on a Frontend Mentor project.
