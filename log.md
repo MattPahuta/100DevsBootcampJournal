@@ -1,6 +1,11 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 22, Thursday
+
+**Today's Progress**: Completed review of FCC algorithm challenges as well as some extra JS OOP review via Udemy course content.
+
+
 ### September 21, Wednesday
 
 **Today's Progress**: Free Code Camp JS challenges to begin the day, followed by some Code Wars, and then moved over to complete review of class 29. Finished off with some more work on a small FEM project.
