@@ -1,6 +1,16 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
 
+### September 24, Saturday
+
+**Today's Progress**: Revisited some Codecademy curriculum work while troubleshooting another Skillcrush student's code, then finished up and submitted a Frontend Mentor project.
+
+
+### September 23, Friday
+
+**Today's Progress**: Began with some continued review of Udemy JS course content, moved to Anki review of JS and CSS concepts, then worked through several Code Wars challenges.
+
+
 ### September 22, Thursday
 
 **Today's Progress**: Completed review of FCC algorithm challenges as well as some extra JS OOP review via Udemy course content.
