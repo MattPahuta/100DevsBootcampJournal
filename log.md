@@ -1,6 +1,20 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
-### September 26, Saturday
+### September 29, Thursday
+
+**Today's Progress**: Began the morning reviewing 100Devs class 29 HW, OOP in JS. Rest of the day was spent working through a Traversy Udemy OOP JS project to further solidify some of the OOP concepts introduced in 100Devs material.
+
+### September 28, Wednesday
+
+**Today's Progress**: Kicked things off with Free Code Camp, leading to a little Code Wars, then finished up with more progress on a FEM project.
+
+
+### September 27, Tuesday
+
+**Today's Progress**: Brushing up on JS OOP fundamentals with 100Devs supp material and Traversy Udemy content. Continued work on a FEM project.
+
+
+### September 26, Monday
 
 **Today's Progress**: A mix of Code Wars, FCC, and Udemy JavaScript content today. Also started a new Frontend Mentor challenge project.
 
