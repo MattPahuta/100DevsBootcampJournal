@@ -1,5 +1,18 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### October 2, Sunday
+
+**Today's Progress**: Half-day spent building out a Frontend Mentor landing page challenge, getting to about 70% complete.
+
+### October 1, Saturday
+
+**Today's Progress**: Code Wars challenges and FEM project work.
+
+### September 30, Friday
+
+**Today's Progress**: Began review of class 30, additional JS OOP study, and about an hour troubleshooting Skillcrush student code.
+
+
 ### September 29, Thursday
 
 **Today's Progress**: Began the morning reviewing 100Devs class 29 HW, OOP in JS. Rest of the day was spent working through a Traversy Udemy OOP JS project to further solidify some of the OOP concepts introduced in 100Devs material.
