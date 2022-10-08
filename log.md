@@ -1,5 +1,31 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+
+### October 7, Friday
+
+**Today's Progress**: Finished review of class 31, Code Wars challenges, and added a little more Node.js overview content via Udemy. Also started work on another small FEM project.
+
+
+### October 6, Thursday
+
+**Today's Progress**: Continued review of class 31 with some associated OOP JS work and then finalized a FEM challenge project, Equalizer landing page.
+
+
+### October 5, Wednesday
+
+**Today's Progress**: Began review of class 31, reviewed Node.js fundamentals with Udemy course content, and then several hours on a Frontend Mentor project.
+
+
+### October 4, Tuesday
+
+**Today's Progress**: Code Wars, Free Code Camp, and several hours of code troubleshooting for fellow students.
+
+
+### October 3, Monday
+
+**Today's Progress**: A little FCC review to kick off the week, then straight into 100Devs content, finishing class 30 and beginning review of class 31. Also spent an hour-plus on the Equalizer landing page Frontend Mentor project, refining mobile styles and layouts.
+
+
 ### October 2, Sunday
 
 **Today's Progress**: Half-day spent building out a Frontend Mentor landing page challenge, getting to about 70% complete.
