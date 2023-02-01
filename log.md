@@ -1,5 +1,27 @@
 # 100Devs Bootcamp 2022 (cohort 2 - YouTube) - Log
 
+### February 1, 2023
+
+**Today's Progress**: Time to start a tracker up again. Though I'm pivoting to spending the bulk of my time on completing the Scrimba bootcamp course. Will pivot to another log or log alternative moving forward.
+
+
+### October 12, Wednesday
+
+**Today's Progress**: Began with Scrimba today before moving on to Anki review and starting class 33. Afterward, spent some time on Code Wars before pivoting back to Scrimba. 
+
+
+### October 11, Tuesday
+
+**Today's Progress**: Free Code Camp, Anki, and Code Wars again to begin the day, then finished review of class 32. Later, continued the Scrimba FEWD path and began another Frontend Mentor project.
+
+
+### October 10, Monday
+
+**Today's Progress**: FCC, Anki and Code Wars to start the day, began review of class 32, and then wrapped up another Frontend Mentor project.
+
+### October 8-9, Saturday and Sunday
+
+**Today's Progress**: Several hours over the weekend dedicated to a Frontend Mentor project.
 
 ### October 7, Friday
 
